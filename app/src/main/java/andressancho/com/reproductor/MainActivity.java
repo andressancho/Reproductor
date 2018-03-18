@@ -214,10 +214,11 @@ public class MainActivity extends AppCompatActivity {
         cancionActual=0;
         songs= new Song[]{new Song(145935375, R.raw.closer,"http://www.youredm.com/wp-content/uploads/2016/08/The-Chainsmokers-Closer-2016-Official.jpg",getResources().getString(R.string.closerSong)),
                           new Song(142895505, R.raw.river,"https://djbooth.net/.image/t_share/MTUzNDg5NDEyNjg4NTg1OTI2/eminem-revivaljpg.jpg",getResources().getString(R.string.riverSong)),
-                          new Song(129998728, R.raw.swish,"https://orig00.deviantart.net/28af/f/2017/139/9/a/swish_swish__feat__nicki_minaj__by_dianalovaticd3m1-db9sbeb.jpg",getResources().getString(R.string.closerSong)),
-                          new Song(131977903, R.raw.nomoney,"https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NoMoney.jpeg/220px-NoMoney.jpeg",getResources().getString(R.string.closerSong)),
-                          new Song(84358379, R.raw.youknow,"https://images-na.ssl-images-amazon.com/images/I/41c-aWSV2sL._SS500.jpg",getResources().getString(R.string.closerSong)),
-                          new Song(115865506, R.raw.shots,"http://radioactivodj.com/wp-content/uploads/2015/05/IMAGINE-DRAGONS-SHOTS-BROILER-REMIX.jpg",getResources().getString(R.string.closerSong))};
+                          new Song(129998728, R.raw.swish,"https://orig00.deviantart.net/28af/f/2017/139/9/a/swish_swish__feat__nicki_minaj__by_dianalovaticd3m1-db9sbeb.jpg",getResources().getString(R.string.swishSong)),
+                          new Song(131977903, R.raw.nomoney,"https://upload.wikimedia.org/wikipedia/en/thumb/4/44/NoMoney.jpeg/220px-NoMoney.jpeg",getResources().getString(R.string.noMoneySong)),
+                          new Song(84358379, R.raw.youknow,"https://images-na.ssl-images-amazon.com/images/I/41c-aWSV2sL._SS500.jpg",getResources().getString(R.string.ykyliSong)),
+                          new Song(115865506, R.raw.shots,"http://radioactivodj.com/wp-content/uploads/2015/05/IMAGINE-DRAGONS-SHOTS-BROILER-REMIX.jpg",getResources().getString(R.string.shotsSong)),
+                          new Song(73239939, R.raw.shots,"https://s.mxmcdn.net/images-storage/albums/7/6/1/1/0/9/30901167_350_350.jpg",getResources().getString(R.string.ratherSong))};
 
         mediaPlayer = MediaPlayer.create(this, songs[cancionActual].getSongId());
         for(int x=0;x< songs.length;x++){

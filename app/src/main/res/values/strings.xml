@@ -1,5 +1,267 @@
 <resources>
     <string name="app_name">Reproductor</string>
+    <string name="ratherSong">Oh\n
+We\'re a thousand miles from comfort, we have traveled land and sea
+But as long as you are with me, there\'s no place I\'d rather be
+
+
+I would wait forever, exalted in the scene
+As long as I am with you, my heart continues to beat
+
+With every step we take, Kyoto to The Bay
+Strolling so casually
+We\'re different and the same, gave you another name
+Switch up the batteries
+
+If you gave me a chance I would take it
+It\'s a shot in the dark but I\'ll make it
+Know with all of your heart, you can\'t shame me
+When I am with you, there\'s no place I\'d rather be
+N-n-n-no, no, no, no place I\'d rather be
+N-n-n-no, no, no, no place I\'d rather be
+N-n-n-no, no, no, no place I\'d rather be
+Ooh ooh
+
+We staked out on a mission to find our inner peace
+Make it everlasting so nothing\'s incomplete
+It\'s easy being with you, sacred simplicity
+As long as we\'re together, there\'s no place I\'d rather be
+
+With every step we take, Kyoto to The Bay
+Strolling so casually
+We're different and the same, gave you another name
+Switch up the batteries
+
+If you gave me a chance I would take it
+It\'s a shot in the dark but I\'ll make it
+Know with all of your heart, you can\'t shame me
+When I am with you, there\'s no place I\'d rather be
+N-n-n-no, no, no, no place I\'d rather be
+N-n-n-no, no, no, no place I\'d rather be
+N-n-n-no, no, no, no place I\'d rather be
+
+When I am with you, there\'s no place I\'d rather be (Yeah)
+
+Hoo
+(Be)
+Yeah-e-yeah-e-yeah-e-yeah-e-yeah, yeah, yeah
+
+If you gave me a chance I would take it
+It\'s a shot in the dark but Iv'll make it
+Know with all of your heart, you can\'t shame me
+When I am with you, there\'s no place Iv'd rather be
+N-n-n-no, no, no, no place Ivv'd rather be
+N-n-n-no, no, no, no place Ivv'd rather be
+N-n-n-no, no, no, no place Iv'd rather be
+When I am with you, therev's no place Iv'd rather be</string>
+    <string name="shotsSong">Am I out of touch?\n
+Am I out of my place?\n
+When I keep saying that I\'m looking for an empty space\n
+Oh, I\'m wishing you\'re here\n
+But I\'m wishing you\'re gone\n
+I can\'t have you and I\'m only gonna do you wrong\n
+Oh, I\'m going to mess this up\n
+Oh, this is just my luck\n
+Over and over and over again\n
+In the meantime we let it go\n
+At the roadside we used to know\n
+We can let this drift away\n
+Oh, we let this drift away\n
+And there\'s always time to change your mind\n
+Oh, there\'s always time to change your mind\n
+Oh, there\'s always time to change your mind\n
+Oh, love, can you hear me?\n
+I\'m sorry for everything\n
+Oh, everything I\'ve done\n
+From the second that I was born it seems I had a loaded gun\n
+And then I shot, shot, shot a hole through everything I loved\n
+Oh, I shot, shot, shot a hole through every single thing that I loved\n
+Am I out of luck?\n
+Am I waiting to break?\n
+When I keep saying that I\'m looking for a way to escape\n
+Oh, I\'m wishing I had what I\'d taken for granted\n
+I can\'t help you when I\'m only gonna do you wrong\n
+Oh, I\'m going to mess this up\n
+Oh, this is just my luck\n
+Over and over and over again\n
+In the meantime we let it go\n
+At the roadside we used to know\n
+We can let this drift away\n
+Oh, we let this drift away\n
+And there\'s always time to change your mind\n
+Oh, there\'s always time to change your mind\n
+Oh, there\'s always time to change your mind\n
+Oh, love, can you hear me?\n
+I\'m sorry for everything\n
+Oh, everything I've done\n
+From the second that I was born it seems I had a loaded gun\n
+And then I shot, shot, shot a hole through everything I loved\n
+Oh, I shot, shot, shot a hole through every single thing that I loved</string>
+    <string name="ykyliSong">\n\nSome people want me to be heads or tails\n
+I say no way, try again, another day\n
+I should be happy, not tipping the scales\n
+I just won\'t play letting my life get away\n
+I\'m no fool, no, I\'m not a follower\n
+I don\'t take things as they come\n
+If they bring me down\n
+Life can be cruel if you\'re a dreamer\n
+I just wanna have some fun\n
+Don\'t tell me what can\'t be done\n
+You know you like it but it drives you insane\n
+You know you like it but it drives you insane\n
+You know you like it but you\'re scared of the shame\n
+What you want, what you gonna do?\n
+You know you like it but it drives you insane\n
+Follow me cause you know that you wanna feel the same\n
+You know you like it but it drives you insane\n
+What you want, what you gonna do?\n
+If you wanna train me like an animal\n
+Better keep your eye on my every move\n
+There\'s no need to be, so damn cruel\n
+Baby you got nothing to prove\n
+I\'m no fool, no, I\'m not a follower\n
+I don\'t take things as they come\n
+If they bring me down\n
+Life can be cruel if you\'re a dreamer\n
+I just wanna have some fun\n
+Don\'t tell me what can\'t be done\n
+You know you like it but it drives you insane\n
+You know you like it but it drives you insane\n
+You know you like it but you\'re scared of the shame\n
+What you want, what you gonna do?\n
+You know you like it but it drives you insane\n
+Follow me cause you know that you wanna feel the same\n
+You know you like it but it drives you insane\n
+What you want, what you gonna do?\n
+You know you like it but it drives you insane\n
+You know you like it but it drives you insane\n
+You know you like it but you\'re scared of the shame\n
+What you want, what you gonna do?\n
+You know you like it but it drives you insane\n
+Follow me cause you know that you wanna feel the same\n
+You know you like it but it drives you insane\n
+What you want, what you gonna do?</string>
+    <string name="noMoneySong">
+        \n\nSorry I ain\’t got no money\n
+I\’m not trying to be funny but I left it all at home today\n
+You can call me what you wanna I ain\’t giving you a dollar\n
+This time I ain\’t gonna run away\n
+You might knock me down, you might knock me down\n
+But I will get back up again\n
+You can call it how you wanna, I ain\’t giving you a dollar\n
+This time I ain\’t gonna run away, run away, run away\n
+This time, this time\n
+This time, this time I ain\’t gonna run, run, run, run, run\n
+Not this time, not this time\n
+Not this time\n
+Not this time\n
+Sorry I ain’t got no money \n
+I’m not trying to be funny but I left it all at home today\n
+You can call me what you wanna I ain\’t giving you a dollar\n
+This time I ain\’t gonna run away\n
+You might knock me down, you might knock me down\n
+But I will get back up again\n
+You can call it how you wanna I ain\’t giving you a dollar\n
+This time I ain\’t gonna run away, run away, run away\n
+This time, this time\n
+This time, this time I ain\’t gonna run, run, run, run, run, run\n
+Not this time, not this time\n
+This time I ain\’t gonna run, run, run, run\n
+Not this time\n
+Not this time\n
+Not this time\n
+Not this time\n
+Not this time</string>
+    <string name="swishSong">\n\nThey know what is what\n
+But they don\'t know what is what\n
+They just strut\n
+What the fuck?\n
+A tiger\n
+Don\'t lose no sleep\n
+Don\'t need opinions\n
+From a shellfish or a sheep\n
+Don\'t you come for me\n
+No, not today (woah)\n
+You\'re calculated\n
+I got your number\n
+\'Cause you\'re a joker\n
+And I\'m a courtside killer queen\n
+And you will kiss the ring\n
+You best believe\n
+So keep calm, honey, I\'ma stick around\n
+For more than a minute, get used to it\n
+Funny my name keeps comin\' out your mouth\n
+\'Cause I stay winning\n
+Lay \'em up like\n
+Swish, swish, bish\n
+Another one in the basket (basket, woah, basket, woah)\n
+Can\'t touch this\n
+Another one in the casket (casket, woah, casket)\n
+Your game is tired\n
+You should retire\n
+You\'re \'bout as cute as\n
+An old coupon expired (woah, woah)\n
+And karma\'s not a liar\n
+She keeps receipts\n
+So keep calm, honey, I\'ma stick around\n
+For more than a minute, get used to it\n
+Funny my name keeps comin\' out your mouth\n
+\'Cause I stay winning\n
+Lay \'em up like\n
+Swish, swish, bish\n
+Another one in the basket (basket, woah, basket, woah)\n
+Can\'t touch this\n
+Another one in the casket (casket, woah, casket, let\'s go, woah)\n
+Swish, swish, bish\n
+Another one in the basket (basket, woah, basket, woah)\n
+Can\'t touch this\n
+Another one in the casket (casket, woah, casket, woah)\n
+They know what is what\n
+But they don\'t know what is what\n
+Katy Perry (woah)\n
+They just know what is what\n
+Young Money\n
+But they don\'t know what is what (what, woah)\n
+They just know what is what\n
+But they don\'t know what is what (woah)\n
+They just strut\n
+Hahaha, yo\n
+What the fuck? (Woah)\n
+Pink Ferragamo sliders on deck\n
+Silly rap beefs just get me more checks\n
+My life is a movie, I\'m never off set\n
+Me and my amigos (no, not Offset)\n
+Swiss swish, aww I got them upset\n
+But my shooters\'ll make \'em dance like dubstep\n
+Swiss, swish, aww, my haters is obsessed\n
+\'Cause I make M\'s, they get much less\n
+Don\'t be tryna double back\n
+I already despise you (yeah)\n
+All that fake love you showin\'\n
+Couldn\'t even disguise you, yo, yo\n
+Ran? When? Nicki gettin\' tan\n
+Mirror mirror who\'s the fairest bitch in all the land?\n
+Damn, man, this bitch is a Stan\n
+The generous queen\'ll kiss a fan\n
+Ass goodbye, I\'ma be riding by\n
+I\'ma tell my Biggz, yeah that\'s the guy\n
+A star\'s a star, da ha da ha\n
+They never thought the swish god would take it this far\n
+Get my pimp cup, this is pimp shit, baby\n
+I only rock with queens, so I\'m makin\' hits with Katy\n
+Swish, swish, bish\n
+Another one in the basket (and another one, and another one) (basket, woah, basket, woah)\n
+Can\'t touch this (can\'t touch this)\n
+Another one in the casket (and another one, and another one) (casket, woah, casket, woah)\n
+They know what is what\n
+Do they know?\n
+But they don\'t know what is what\n
+They just know what is what (woah)\n
+But they don't know what is what (woah)\n
+They just know what is what\n
+But they don\'t know what is what\n
+They just strut (woah)\n
+What the (woah)</string>
     <string name="riverSong">I\'ve been a liar, been a thief\n
 Been a lover, been a cheat\n
 All my sins need holy water, feel it washing over me\n
