@@ -45,7 +45,8 @@ public class Song {
     }
 
     public void setRating(double rating) {
-        this.rating = rating;
+        double r=rating/20;
+        this.rating = Math.round(r);
     }
 
     public String getUrlImage() {
@@ -80,9 +81,11 @@ public class Song {
         this.nombre = nombre;
     }
 
-    Song(int idM, int id){
+    Song(int idM, int id, String urlImage,String letra){
         musixId=idM;
         songId=id;
+        this.urlImage=urlImage;
+        lyrics=letra;
 
     }
 

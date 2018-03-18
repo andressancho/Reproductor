@@ -22,7 +22,8 @@
                     <ListView
                         android:id="@+id/lista"
                         android:layout_width="100dp"
-                        android:layout_height="match_parent" />
+                        android:layout_height="match_parent"
+                        android:background="@android:color/background_dark" />
 
                         <RelativeLayout
                             android:layout_width="match_parent"
@@ -90,37 +91,42 @@
                                 <LinearLayout
                                     android:layout_width="match_parent"
                                     android:layout_height="50dp"
-                                    android:orientation="horizontal">
+                                    android:orientation="horizontal"
+                                    >
 
                                     <Button
                                         android:id="@+id/atrasbtn"
-                                        android:layout_width="wrap_content"
+                                        android:layout_width="68dp"
                                         android:layout_height="match_parent"
                                         android:layout_weight="1"
-                                        android:text="A" />
+                                        android:background="@drawable/prev"
+                                        android:onClick="prevClicked" />
 
                                     <Button
                                         android:id="@+id/pauseplay"
-                                        android:layout_width="wrap_content"
+                                        android:layout_width="68dp"
                                         android:layout_height="match_parent"
                                         android:layout_weight="1"
+                                        android:background="@drawable/play"
                                         android:onClick="playClicked"
-                                        android:text="P" />
-
-                                    <Button
-                                        android:id="@+id/adelante"
-                                        android:layout_width="wrap_content"
-                                        android:layout_height="match_parent"
-                                        android:layout_weight="1"
-                                        android:text="A" />
-
+                                        />
                                     <Button
                                         android:id="@+id/stop"
-                                        android:layout_width="wrap_content"
+                                        android:layout_width="68dp"
                                         android:layout_height="match_parent"
                                         android:layout_weight="1"
                                         android:onClick="stopClicked"
-                                        android:text="S" />
+                                        android:background="@drawable/pause" />
+
+                                    <Button
+                                        android:id="@+id/adelante"
+                                        android:layout_width="68dp"
+                                        android:layout_height="match_parent"
+                                        android:layout_weight="1"
+                                        android:background="@drawable/next"
+                                        android:onClick="nextClicked" />
+
+
 
                                 </LinearLayout>
 
@@ -162,12 +168,10 @@
                                         <TextView
                                             android:id="@+id/letratx"
                                             android:layout_width="match_parent"
-                                            android:layout_height="5000dp"
-                                            android:layout_marginLeft="12dp"
-                                            android:layout_marginRight="12dp"
-                                            android:layout_marginTop="8dp"
-
+                                            android:layout_height="100000dp"
+                                            android:layout_alignParentBottom="true"
                                             android:text="Aqui va la letra"
+                                            android:layout_marginBottom="-9000dp"
                                             android:textColor="@android:color/background_light"
                                             android:textSize="10sp" />
                                     </RelativeLayout>
